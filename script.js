@@ -29,3 +29,24 @@ if (valor3 ==30) //checa se valor3 é igual a 30
     console.log("O valor é de fato igual a 30")//se for, apresenta no console a mensagem
 }
 */
+//Exercício 3
+/*
+
+//declaração das variáveis
+let peso = prompt("Digite o seu peso aqui"); //solicitando uma entrada de dados
+let altura = prompt("Digite a altura aqui"); //solicitando uma entrada de dados
+let imc = peso / (altura ** 2); //calculo do imc
+
+if(imc < 18.5)  //checa se imc estiver abaixo de 18.5
+{
+    alert("Abaixo do peso ideal"); //se for, está abaixo do peso 
+}
+else if(imc > 24.9) //checa se imc estiver abaixo de 18.5
+{
+    alert("Acima do peso ideal"); //se for, está acima do peso
+}
+else //checa se imc estiver entre  18.5 e 24.9
+{
+    alert("Peso ideal") // se for, está no peso ideal
+}
+*/
