@@ -72,3 +72,17 @@ else //checa se a idade está entre 12 a 18
     alert('Você é um adolescente'); // se for, é um adolescente
 }
 */
+// Exercício 5
+/*
+//Declaração de variáveis
+let usuario = prompt('Digite o nome de usuário'); //solicitando uma entrada de dados
+let senha = parseInt(prompt('Digite a senha')); //solicitando uma entrada de dados
+
+if(usuario == 'admin' && senha == 1234) //checa se o usuario e a senha estão corretos
+{
+    alert('Você está logado'); //se for, você está logado
+}
+else{
+    alert('Houve uma falha na autenticação'); //se não for, não está logado
+} 
+*/
