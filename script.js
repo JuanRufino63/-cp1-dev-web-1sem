@@ -106,3 +106,20 @@ else{
     alert('Infelizmente você foi reprovado, pois obteve uma média inferior a 6'); //se não for, aluno reprovado
 }
 */
+//Exercício 7
+/*
+//declaração de variáveis
+let nome = prompt('Digite seu nome: ') //solicitando uma entrada de dados
+let idade = prompt('Digite sua idade: ') //solicitando uma entrada de dados
+let curso = prompt('Digite seu curso de atuação: ') //solicitando uma entrada de dados
+let ano = prompt('Digite seu ano do curso: ') //solicitando uma entrada de dados
+
+//impressões na tela do site
+document.write(nome)
+document.write('<br>')
+document.write(idade)
+document.write('<br>')
+document.write(curso)
+document.write('<br>')
+document.write(ano)
+*/
