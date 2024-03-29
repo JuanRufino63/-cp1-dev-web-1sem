@@ -133,3 +133,12 @@ console.log(texto.lastIndexOf('ia'))
 console.log(texto.slice(27, 34))
 console.log(texto.slice(92, 99))
 */
+// Exercício 9
+/*
+//Declaração de variáveis
+let numString = '978.564';
+let numFloat = parseFloat(numString);
+let verificar = typeof numFloat;
+
+console.log(verificar) //mostra a variável no console
+*/
