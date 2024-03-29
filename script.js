@@ -86,3 +86,23 @@ else{
     alert('Houve uma falha na autenticação'); //se não for, não está logado
 } 
 */
+//Exercício 6
+/*
+// declaração das variáveis
+let nota1 = parseFloat(prompt('Digite a 1° nota: ')); //solicitando uma entrada de dados
+let nota2 = parseFloat(prompt('Digite a 2° nota: ')); //solicitando uma entrada de dados
+let nota3 = parseFloat(prompt('Digite a 3° nota: ')); //solicitando uma entrada de dados
+let nota4 = parseFloat(prompt('Digite a 4° nota: ')); //solicitando uma entrada de dados
+let nota5 = parseFloat(prompt('Digite a 5° nota: ')); //solicitando uma entrada de dados
+let nota6 = parseFloat(prompt('Digite a 6° nota:')); //solicitando uma entrada de dados
+let nota7 = parseFloat(prompt('Digite a 7° nota: ')); //solicitando uma entrada de dados
+let media = (nota1 + nota2 + nota3 + nota4 + nota5 + nota6 + nota7) / 7; //calculo da média
+
+if (media >= 6) //checa se a média é 6 para cima
+{
+    alert('Parabéns, você foi aprovado, pois obteve uma média maior ou igual a 6'); //se for, aluno aprovado
+}
+else{
+    alert('Infelizmente você foi reprovado, pois obteve uma média inferior a 6'); //se não for, aluno reprovado
+}
+*/
