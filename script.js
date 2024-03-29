@@ -50,3 +50,25 @@ else //checa se imc estiver entre  18.5 e 24.9
     alert("Peso ideal") // se for, está no peso ideal
 }
 */
+//Exercício 4
+/*
+// declaração da variável
+let idade = prompt('Digite sua idade aqui'); //solicitando uma entrada de dados
+
+if(idade <= 12) //checa se a idade é igual ou abaixo de 12
+{ 
+    alert('Você é uma criança'); // se for, é uma criança
+}
+else if(18 < idade && idade <= 60) //checa se a idade está entre 18 e 60, podendo ser 60
+{ 
+    alert('Você é um adulto'); // se for, é um adulto
+}
+else if(idade > 60) //checa se a idade é acima de 60
+{
+    alert('Você é um idoso'); // se for, é um idosos
+}
+else //checa se a idade está entre 12 a 18
+{
+    alert('Você é um adolescente'); // se for, é um adolescente
+}
+*/
